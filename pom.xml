@@ -11,7 +11,7 @@
 <distributionManagement>
   <repository>
     <id>Test</id>
-    <url>http://localhost:8081/nexus/content/repositories/Test</url>
+    <url>http://localhost:8081/nexus/content/repositories/Ecom</url>
   </repository>
 </distributionManagement>
 
