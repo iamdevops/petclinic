@@ -1,6 +1,6 @@
 node {
 	def mavenHome
-        
+        // updated jenkinsfile
         stage('Code Checkout') { 
 		// Get code from a repository and Git has to be installed in the system; git must be configured in the Global Tool Configuration
 		git 'https://github.com/iamdevops/petclinic.git'
